@@ -1,0 +1,13 @@
+{
+    "name": "Node Building merlus test",
+    "description": "Merlus Org Test - CI starter workflow for node",
+    "iconName": "octicon home",
+    "categories": [
+        "Webpack",
+        "JavaScript",
+        "continuous-integration"
+    ],
+    "filePatterns": [
+        "merlus-way.md"
+    ]
+}
